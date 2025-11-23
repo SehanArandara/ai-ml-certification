@@ -36,7 +36,11 @@ const Certificate = ({ student }) => {
             if (element) {
               element.style.letterSpacing = '0.5px';
             }
-          }
+          },
+          windowWidth: 1200,
+          windowHeight: 900,
+          scrollX: 0,
+          scrollY: 0,
         });
         const imgData = canvas.toDataURL('image/png');
         const pdf = new jsPDF('l', 'mm', 'a4');
@@ -73,7 +77,11 @@ const Certificate = ({ student }) => {
             if (element) {
               element.style.letterSpacing = '0.5px';
             }
-          }
+          },
+          windowWidth: 1200,
+          windowHeight: 900,
+          scrollX: 0,
+          scrollY: 0,
         });
         const link = document.createElement('a');
         link.download = `${student.name.replace(/\s+/g, '_')}_Certificate.png`;
@@ -151,7 +159,7 @@ const Certificate = ({ student }) => {
               </div>
 
               {/* Footer */}
-              <div className="flex justify-between items-end w-full px-20 mb-8">
+              <div className="flex justify-between items-end w-full px-20 mb-4">
                 <div className="text-center">
                   <div className="text-xl font-semibold text-[#0f172a] pt-2 px-10 min-w-[240px] tracking-widest">
                     {currentDate}
