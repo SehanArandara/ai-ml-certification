@@ -122,7 +122,6 @@ const Certificate = ({ student }) => {
               <img src={logoMain} alt="" className="w-3/4 h-3/4 object-contain grayscale" />
             </div>
 
-            {/* Corner Decorations */}
             <div className="absolute top-6 left-6 w-24 h-24 border-t-4 border-l-4 border-[#1e3a8a]"></div>
             <div className="absolute bottom-6 right-6 w-24 h-24 border-b-4 border-r-4 border-[#1e3a8a]"></div>
             <div className="absolute top-6 right-6 w-24 h-24 border-t-4 border-r-4 border-[#1e3a8a]"></div>
