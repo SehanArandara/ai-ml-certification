@@ -1825,5 +1825,12 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2023-11-20",
         "instructor": "Dr. Smith"
+    },
+    {
+        "id": "SKML257869",
+        "name": "Bhagya Pathirana",
+        "course": "Advanced Machine Learning",
+        "date": "2023-11-20",
+        "instructor": "Dr. Smith"
     }
 ];     
