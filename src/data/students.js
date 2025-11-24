@@ -1359,7 +1359,7 @@ export const students = [
     },
     {
         "id": "SKML25894",
-        "name": "Nethmi Sithara",
+        "name": "L.W Nethmi Sithara",
         "course": "Advanced Machine Learning",
         "date": "2023-11-20",
         "instructor": "Dr. Smith"
@@ -1815,6 +1815,13 @@ export const students = [
     {
         "id": "SKML25959",
         "name": "S A Mahinsha Navod",
+        "course": "Advanced Machine Learning",
+        "date": "2023-11-20",
+        "instructor": "Dr. Smith"
+    },
+    {
+        "id": "SKML257865",
+        "name": "J. S. Darshana Shamil Premathilake",
         "course": "Advanced Machine Learning",
         "date": "2023-11-20",
         "instructor": "Dr. Smith"
