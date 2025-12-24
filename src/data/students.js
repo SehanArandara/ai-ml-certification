@@ -989,6 +989,14 @@ export const students = [
         "instructor": "Dr. Smith"
     },
     {
+        "id": "SKML26504",
+        "name": "H.G.K. Venuri Dulya Chamuduni Dissanayake",
+        "course": "Advanced Machine Learning",
+        "date": "2023-11-20",
+        "instructor": "Dr. Smith",
+        "isCompletedProject": true
+    },
+    {
         "id": "SKML25841",
         "name": "Dinushi Samarasinghe",
         "course": "Advanced Machine Learning",
