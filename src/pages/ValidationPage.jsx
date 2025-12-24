@@ -14,7 +14,7 @@ const ValidationPage = () => {
         const student = students.find(s => s.id === code.trim());
 
         if (student) {
-            navigate(`/certificate/${student.id}`);
+            navigate(`/select-certificate/${student.id}`);
         } else {
             setError('Invalid Certificate ID. Please check and try again.');
         }

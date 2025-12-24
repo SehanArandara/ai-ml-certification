@@ -1,6 +1,7 @@
 import React, { useRef, useState } from 'react';
 import html2canvas from 'html2canvas';
 import jsPDF from 'jspdf';
+import { useSearchParams } from 'react-router-dom';
 import { Download, Share2, Linkedin, Facebook, CheckCircle, Image as ImageIcon, FileText, Loader2 } from 'lucide-react';
 import logoMain from '../assets/logo-main.png';
 import signImage from '../assets/sign.png';
@@ -8,6 +9,15 @@ import signImage from '../assets/sign.png';
 const Certificate = ({ student }) => {
   const certificateRef = useRef(null);
   const [isDownloading, setIsDownloading] = useState(false);
+  const [searchParams] = useSearchParams();
+  const type = searchParams.get('type');
+
+  const isProject = type === 'project';
+  const title = isProject ? "Certificate" : "Certificate";
+  const subTitle = isProject ? "of Excellence" : "of Completion";
+  const description = isProject
+    ? "has successfully completed the course and the project"
+    : "has successfully completed the course";
 
   if (!student) return null;
 
@@ -133,10 +143,10 @@ const Certificate = ({ student }) => {
               <div className="mb-2">
                 <img src={logoMain} alt="SkyRek Logo" className="h-16 object-contain mb-2 mx-auto" />
                 <h1 className="text-5xl font-bold text-[#0f172a] uppercase tracking-[0.2em] mb-1">
-                  Certificate
+                  {title}
                 </h1>
                 <p className="text-2xl text-[#475569] uppercase tracking-[0.3em]">
-                  of Completion
+                  {subTitle}
                 </p>
               </div>
 
@@ -149,7 +159,7 @@ const Certificate = ({ student }) => {
                   {student.name}
                 </h2>
                 <p className="text-xl text-[#6b7280] italic mb-4 tracking-wide">
-                  has successfully completed the course
+                  {description}
                 </p>
                 <h3 className="text-4xl font-bold text-[#1e293b] leading-tight max-w-4xl mx-auto tracking-wide">
                   Artificial Intelligence &<br />

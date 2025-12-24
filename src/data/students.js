@@ -4,14 +4,16 @@ export const students = [
         "name": "savindya sandeepani",
         "course": "Advanced Machine Learning",
         "date": "2023-11-20",
-        "instructor": "Dr. Smith"
+        "instructor": "Dr. Smith",
+        "isCompletedProject": true
     },
     {
         "id": "SKML25701",
         "name": "M A Thenula Perera",
         "course": "Advanced Machine Learning",
         "date": "2023-11-20",
-        "instructor": "Dr. Smith"
+        "instructor": "Dr. Smith",
+        "isCompletedProject": true
     },
     {
         "id": "SKML25702",
@@ -1075,7 +1077,8 @@ export const students = [
         "name": "R D Tharushi Kavindi Ranasingha",
         "course": "Advanced Machine Learning",
         "date": "2023-11-20",
-        "instructor": "Dr. Smith"
+        "instructor": "Dr. Smith",
+        "isCompletedProject": true
     },
     {
         "id": "SKML25854",
@@ -1103,7 +1106,8 @@ export const students = [
         "name": "W K Amila Sampath Wijayananda",
         "course": "Advanced Machine Learning",
         "date": "2023-11-20",
-        "instructor": "Dr. Smith"
+        "instructor": "Dr. Smith",
+        "isCompletedProject": true
     },
     {
         "id": "SKML25858",
@@ -1684,7 +1688,8 @@ export const students = [
         "name": "Navinda Rashen",
         "course": "Advanced Machine Learning",
         "date": "2023-11-20",
-        "instructor": "Dr. Smith"
+        "instructor": "Dr. Smith",
+        "isCompletedProject": true
     },
     {
         "id": "SKML25941",
@@ -1698,7 +1703,8 @@ export const students = [
         "name": "Virandi Prabhadili Pulasinghe",
         "course": "Advanced Machine Learning",
         "date": "2023-11-20",
-        "instructor": "Dr. Smith"
+        "instructor": "Dr. Smith",
+        "isCompletedProject": true
     },
     {
         "id": "SKML25943",
