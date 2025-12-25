@@ -1050,7 +1050,8 @@ export const students = [
         "name": "Chameera Chathuranga",
         "course": "Advanced Machine Learning",
         "date": "2023-11-20",
-        "instructor": "Dr. Smith"
+        "instructor": "Dr. Smith",
+        "isCompletedProject": true
     },
     {
         "id": "SKML25849",
@@ -1388,7 +1389,8 @@ export const students = [
         "name": "A M S N Bandara",
         "course": "Advanced Machine Learning",
         "date": "2023-11-20",
-        "instructor": "Dr. Smith"
+        "instructor": "Dr. Smith",
+        "isCompletedProject": true
     },
     {
         "id": "SKML25897",
@@ -1514,7 +1516,8 @@ export const students = [
         "name": "J B Yehan Raveesha",
         "course": "Advanced Machine Learning",
         "date": "2023-11-20",
-        "instructor": "Dr. Smith"
+        "instructor": "Dr. Smith",
+        "isCompletedProject": true
     },
     {
         "id": "SKML25915",

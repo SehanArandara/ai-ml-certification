@@ -104,6 +104,17 @@ const ValidationPage = () => {
                                 <span>Verify & Claim</span>
                                 <ChevronRight className="w-4 h-4" />
                             </button>
+
+                            <div className="text-center pt-2">
+                                <button
+                                    type="button"
+                                    onClick={() => navigate('/find-id')}
+                                    className="text-sm text-gray-500 hover:text-blue-600 transition-colors font-medium flex items-center justify-center mx-auto space-x-1"
+                                >
+                                    <span>Don't know your ID?</span>
+                                    <span className="text-blue-600 hover:underline">Find it here</span>
+                                </button>
+                            </div>
                         </form>
                     </div>
                     <div className="bg-gray-50 px-8 py-4 border-t border-gray-100 text-center">
