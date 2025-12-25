@@ -776,7 +776,9 @@ export const students = [
         "name": "Diara Batagodage",
         "course": "Advanced Machine Learning",
         "date": "2023-11-20",
-        "instructor": "Dr. Smith"
+        "instructor": "Dr. Smith",
+        "isCompletedProject": true
+
     },
     {
         "id": "SKML25811",
