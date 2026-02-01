@@ -2951,7 +2951,7 @@ export const students = [
     },
     {
         "id": "SKML26638",
-        "name": "U G G Dilan Uddeepika Liyanaarachchi",
+        "name": "U.H.G. Dilan Uddeepika Liyanaarachchi",
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
