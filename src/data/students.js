@@ -1859,7 +1859,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26502",
@@ -1867,7 +1867,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26503",
@@ -1875,7 +1875,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26504",
@@ -1883,7 +1883,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26505",
@@ -1891,7 +1891,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26506",
@@ -1899,7 +1899,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26507",
@@ -1907,7 +1907,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26508",
@@ -1915,7 +1915,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26509",
@@ -1923,7 +1923,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26510",
@@ -1931,7 +1931,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26511",
@@ -1939,7 +1939,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26512",
@@ -1947,7 +1947,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26513",
@@ -1955,7 +1955,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26514",
@@ -1963,7 +1963,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26515",
@@ -1971,7 +1971,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26516",
@@ -1979,7 +1979,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26517",
@@ -1987,7 +1987,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26518",
@@ -1995,7 +1995,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26519",
@@ -2003,7 +2003,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26520",
@@ -2011,7 +2011,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26521",
@@ -2019,7 +2019,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26522",
@@ -2027,7 +2027,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26523",
@@ -2035,7 +2035,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26524",
@@ -2043,7 +2043,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26525",
@@ -2051,7 +2051,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26526",
@@ -2059,7 +2059,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26527",
@@ -2067,7 +2067,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26528",
@@ -2075,7 +2075,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26529",
@@ -2083,7 +2083,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26530",
@@ -2091,7 +2091,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26531",
@@ -2099,7 +2099,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26532",
@@ -2107,7 +2107,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26533",
@@ -2115,7 +2115,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26534",
@@ -2123,7 +2123,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26535",
@@ -2131,7 +2131,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26536",
@@ -2139,7 +2139,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26537",
@@ -2147,7 +2147,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26538",
@@ -2155,7 +2155,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26539",
@@ -2163,7 +2163,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26540",
@@ -2171,7 +2171,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26541",
@@ -2179,7 +2179,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26542",
@@ -2187,7 +2187,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26543",
@@ -2195,7 +2195,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26544",
@@ -2203,7 +2203,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26545",
@@ -2211,7 +2211,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26546",
@@ -2219,7 +2219,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26547",
@@ -2227,7 +2227,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26548",
@@ -2235,7 +2235,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26549",
@@ -2243,7 +2243,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26550",
@@ -2251,7 +2251,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26551",
@@ -2259,7 +2259,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26552",
@@ -2267,7 +2267,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26553",
@@ -2275,7 +2275,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26554",
@@ -2283,7 +2283,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26555",
@@ -2291,7 +2291,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26556",
@@ -2299,7 +2299,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26557",
@@ -2307,7 +2307,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26558",
@@ -2315,7 +2315,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26559",
@@ -2323,7 +2323,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26560",
@@ -2331,7 +2331,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26561",
@@ -2339,7 +2339,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26562",
@@ -2347,7 +2347,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26563",
@@ -2355,7 +2355,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26564",
@@ -2363,7 +2363,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26565",
@@ -2371,7 +2371,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26566",
@@ -2379,7 +2379,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26567",
@@ -2387,7 +2387,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26568",
@@ -2395,7 +2395,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26569",
@@ -2403,7 +2403,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26570",
@@ -2411,7 +2411,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26571",
@@ -2419,7 +2419,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26572",
@@ -2427,7 +2427,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26573",
@@ -2435,7 +2435,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26574",
@@ -2443,7 +2443,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26575",
@@ -2451,7 +2451,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26576",
@@ -2459,7 +2459,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26577",
@@ -2467,7 +2467,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26578",
@@ -2475,7 +2475,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26579",
@@ -2483,7 +2483,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26580",
@@ -2491,7 +2491,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26581",
@@ -2499,7 +2499,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26582",
@@ -2507,7 +2507,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26583",
@@ -2515,7 +2515,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26584",
@@ -2523,7 +2523,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26585",
@@ -2531,7 +2531,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26586",
@@ -2539,7 +2539,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26587",
@@ -2547,7 +2547,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26588",
@@ -2555,7 +2555,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26589",
@@ -2563,7 +2563,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26590",
@@ -2571,7 +2571,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26591",
@@ -2579,7 +2579,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26592",
@@ -2587,7 +2587,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26593",
@@ -2595,7 +2595,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26594",
@@ -2603,7 +2603,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26595",
@@ -2611,7 +2611,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26596",
@@ -2619,7 +2619,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26597",
@@ -2627,7 +2627,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26598",
@@ -2635,7 +2635,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26599",
@@ -2643,7 +2643,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26600",
@@ -2651,7 +2651,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26601",
@@ -2659,7 +2659,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26602",
@@ -2667,7 +2667,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26603",
@@ -2675,7 +2675,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26604",
@@ -2683,7 +2683,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26605",
@@ -2691,7 +2691,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26606",
@@ -2699,7 +2699,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26607",
@@ -2707,7 +2707,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26608",
@@ -2715,7 +2715,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26609",
@@ -2723,7 +2723,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26610",
@@ -2731,7 +2731,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26611",
@@ -2739,7 +2739,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26612",
@@ -2747,7 +2747,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26613",
@@ -2755,7 +2755,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26614",
@@ -2763,7 +2763,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26615",
@@ -2771,7 +2771,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26616",
@@ -2779,7 +2779,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26617",
@@ -2787,7 +2787,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26618",
@@ -2795,7 +2795,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26619",
@@ -2803,7 +2803,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26620",
@@ -2811,7 +2811,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26621",
@@ -2819,7 +2819,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26622",
@@ -2827,7 +2827,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26623",
@@ -2835,7 +2835,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26624",
@@ -2843,7 +2843,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26625",
@@ -2851,7 +2851,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26626",
@@ -2859,7 +2859,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26627",
@@ -2867,7 +2867,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26628",
@@ -2875,7 +2875,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26629",
@@ -2883,7 +2883,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26630",
@@ -2891,7 +2891,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26631",
@@ -2899,7 +2899,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26632",
@@ -2907,7 +2907,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26633",
@@ -2915,7 +2915,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26634",
@@ -2923,7 +2923,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26635",
@@ -2931,7 +2931,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26636",
@@ -2939,7 +2939,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26637",
@@ -2947,7 +2947,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26638",
@@ -2955,7 +2955,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26639",
@@ -2963,7 +2963,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26640",
@@ -2971,7 +2971,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26641",
@@ -2979,7 +2979,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26642",
@@ -2987,7 +2987,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26643",
@@ -2995,7 +2995,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26644",
@@ -3003,7 +3003,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26645",
@@ -3011,7 +3011,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26646",
@@ -3019,7 +3019,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26647",
@@ -3027,7 +3027,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26648",
@@ -3035,7 +3035,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26649",
@@ -3043,7 +3043,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26650",
@@ -3051,7 +3051,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26651",
@@ -3059,7 +3059,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26652",
@@ -3067,7 +3067,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26653",
@@ -3075,7 +3075,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26654",
@@ -3083,7 +3083,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26655",
@@ -3091,7 +3091,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26656",
@@ -3099,7 +3099,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26657",
@@ -3107,7 +3107,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26658",
@@ -3115,7 +3115,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26659",
@@ -3123,7 +3123,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26660",
@@ -3131,7 +3131,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26661",
@@ -3139,7 +3139,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26662",
@@ -3147,7 +3147,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26663",
@@ -3155,7 +3155,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26664",
@@ -3163,7 +3163,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26665",
@@ -3171,7 +3171,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26666",
@@ -3179,7 +3179,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26667",
@@ -3187,7 +3187,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26668",
@@ -3195,7 +3195,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26669",
@@ -3203,7 +3203,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26670",
@@ -3211,7 +3211,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26671",
@@ -3219,7 +3219,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26672",
@@ -3227,7 +3227,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26673",
@@ -3235,7 +3235,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26674",
@@ -3243,7 +3243,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26675",
@@ -3251,7 +3251,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     },
     {
         "id": "SKML26676",
@@ -3259,6 +3259,6 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": true
+        "isCompletedProject": false
     }
 ]; 
