@@ -1988,7 +1988,7 @@ export const students = [
         "course": "Advanced Machine Learning",
         "date": "2026-01-26",
         "instructor": "Dr. Smith",
-        "isCompletedProject": ture
+        "isCompletedProject": true
     },
     {
         "id": "SKML26518",
